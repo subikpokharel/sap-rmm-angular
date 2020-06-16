@@ -17,3 +17,4 @@ Step 7: Scroll to Maven Build -> Right click -> New configuration. <br>
 Step 8: Select Base directory as the location where the project is stored. <br>
 Step 9: Enter Goals: "spring-boot:run". <br>
 Step 10: Apply the changes and select Run. <br>
+Step 11: On successfully executing Step 10, the application should be up and running on http://localhost:4200 
