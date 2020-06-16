@@ -1,7 +1,7 @@
 # sap-rmm-angular
 Running Angular Project as a Spring Boot application <br><br>
 
-Steps to Configure and Run this project: <br>
+Steps to Configure and Run this project: <br><br>
 Step 1: Download or clone the project from this repository. <br>
 Step 2: Unzip the downloded folder (if downloaded the zip version). <br>
 Step 3: Make sure you have java and maven installed in your system. <br>
